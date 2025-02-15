@@ -1,1 +1,1 @@
-# Deep-Learning-Foundations-and-Applications-Term-Assignments-
+# Deep Learining TERM PROJECTS + Graph Machine Learning TERM PROJECTS 
